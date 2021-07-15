@@ -1,0 +1,19 @@
+---
+title: "Making a {Targets} Extension"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Making a {Targets} Extension}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(epitargets)
+```
