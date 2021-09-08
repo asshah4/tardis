@@ -1,5 +1,5 @@
-Package: tarameters
-Title: Targets for Clinical Modeling
+Package: tardis
+Title: Targets for Epidemiology and Clinical Modeling
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Anish",

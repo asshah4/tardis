@@ -1,4 +1,4 @@
-^tarameters\.Rproj$
+^tardis\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^README\.Rmd$
@@ -8,3 +8,5 @@
 ^docs$
 ^pkgdown$
 ^codecov\.yml$
+^_targets\.R$
+^sandbox\.R$

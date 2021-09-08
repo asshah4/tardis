@@ -1,4 +1,4 @@
 library(testthat)
-library(manytargets)
+library(tarameters)
 
-test_check("manytargets")
+test_check("tarameters")
